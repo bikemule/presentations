@@ -1,0 +1,4 @@
+I attempted to export directly from org-mode to an HTML slideshow without success, due to limited time, so I just hacked it together with deck.js manually.
+
+All js/css are loaded via cdnjs, except neon.css because I made some minor changes.
+
